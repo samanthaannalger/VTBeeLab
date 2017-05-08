@@ -2,7 +2,7 @@
 
 title: "Vermont Bee Lab"
 description: "Coming Soon..."
-logo: # 120x120 px default image used for Twitter summary card
+logo: bees.JPG # 120x120 px default image used for Twitter summary card
 teaser: bees.JPG # 400x250 px default teaser image used in image archive grid
 locale:
 url:
