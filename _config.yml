@@ -1,27 +1,23 @@
 # Site wide configuration
 
-title: "My Site"
-description: "This is a description of my awesome site."
+title:
+description:
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
-locale: en
+locale:
 url:
-feed:
-  path: atom.xml
 
 # Jekyll configuration
 
 sass:
-  sass_dir: _sass
-  style: compressed
+    sass_dir: _sass
+    style: compressed
 permalink: /:categories/:title/
 kramdown:
   toc_levels: 1..2
-highlighter: rouge
+highlighter: pygments
 gems:
   - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
 
 
 # Site owner
@@ -30,35 +26,11 @@ owner:
   email:
   twitter:
   google:
-    ad-client:
-    ad-slot:
-  bio:
+    ad-client: 
+    ad-slot: 
+  bio: 
   avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname:
 
 
-include:
-  - .htaccess
-exclude:
-  - "*.less"
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
-  - .sass-cache
-  - CHANGELOG
-  - Capfile
-  - Gemfile
-  - Gruntfile.js
-  - LICENSE
-  - README
-  - Rakefile
-  - config
-  - gulpfile.js
-  - lib
-  - log
-  - node_modules
-  - package.json
-  - spec
-  - tmp
+exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]

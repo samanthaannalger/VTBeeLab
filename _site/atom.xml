@@ -1,1 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="/atom.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-05-07T22:01:35-04:00</updated><id>/</id><title>Vermont Bee Lab</title><subtitle>Under Construction...Coming soon....</subtitle></feed>
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>Vermont Bee Lab</title>
+  <generator uri="https://github.com/jekyll/jekyll">Jekyll v3.1.6</generator>
+    <icon>/apple-touch-icon-precomposed.png</icon>
+  <subtitle>Under Construction...Coming soon....</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="/" rel="alternate" type="text/html"/>
+  <updated>2017-05-07T22:10:46-04:00</updated>
+  <id>/</id>
+  <author>
+    <name>Samantha Alger</name>
+    <uri>/</uri>
+    <email>salger@uvm.edu</email>
+  </author>
+
+  
+  
+</feed>
