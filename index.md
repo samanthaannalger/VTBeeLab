@@ -9,6 +9,7 @@ image:
 
 <div class="tile">
 <<<<<<< HEAD
+<<<<<<< HEAD
 <h2 class="post-title">Built for Jekyll 2</h2>
 <p class="post-excerpt">Takes advantage of native Sass support and data files to make customizing your site easier.</p>
 </div><!-- /.tile -->
@@ -27,6 +28,8 @@ image:
 <h2 class="post-title">Extensible</h2>
 <p class="post-excerpt">Compatible with popular libraries like <a href="http://bourbon.io">Bourbon</a>, <a href="http://neat.bourbon.io/">Neat</a>, and <a href="http://github.com/octopress/octopress">Octopress</a> to help build and deploy your site with ease.</p>
 =======
+=======
+>>>>>>> origin/master
   <h2 class="post-title">Built for Jekyll 2</h2>
   <p class="post-excerpt">Takes advantage of native Sass support and data files to make customizing your site easier.</p>
 </div><!-- /.tile -->
@@ -44,6 +47,9 @@ image:
 <div class="tile">
   <h2 class="post-title">Extensible</h2>
   <p class="post-excerpt">Compatible with popular libraries like <a href="http://bourbon.io">Bourbon</a>, <a href="http://neat.bourbon.io/">Neat</a>, and <a href="http://github.com/octopress/octopress">Octopress</a> to help build and deploy your site with ease.</p>
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
 >>>>>>> origin/master
 </div><!-- /.tile -->
 
