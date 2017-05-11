@@ -6,8 +6,8 @@ modified:
 excerpt: "Meet the members of our lab."
 tags: []
 image:
-  feature: labSam.JPG
-  teaser:
+  feature:
+  teaser: labSam.JPG
   thumb:
 share: false
 ads: false
