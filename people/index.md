@@ -15,5 +15,5 @@ ads: false
 
 <figure>
 	<img src="bio-photo.jpg" alt="">
-	<figcaption>Image caption goes here. Aesthetic odio dolore, meggings disrupt.</figcaption>
+	<figcaption>UNDER CONSTRUCTION.</figcaption>
 </figure>
