@@ -4,6 +4,8 @@ permalink: /
 image:
   feature: bees.JPG
 ---
+<header>
+    <h1>Projects</h1> 
 
 <div class="tiles">
 
