@@ -1,17 +1,19 @@
 ---
 layout: article
 title: "People"
-date: 2014-06-02T09:44:20-04:00
+date: 2017-05-11
 modified:
 excerpt: "Meet the members of our lab."
 tags: []
 image:
   feature:
   teaser:
-  thumb: labSam.JPG
+  thumb:
 share: false
 ads: false
 ---
+
+UNDER CONSTRUCTION
 
 <figure>
 	<img src="bio-photo.jpg" alt="">
