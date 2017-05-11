@@ -16,6 +16,6 @@ ads: false
 UNDER CONSTRUCTION
 
 <figure>
-	<img src="{{ site.url }}/images/profileSam.png">
-	<figcaption>Samantha Alger, UVM.</figcaption>
+	<img src="{{ site.url }}/images/profileSam.png" width="50%" height="50%">
+	<figcaption>Samantha Alger, University of Vermont</figcaption>
 </figure>
