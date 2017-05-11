@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "About"
-date: 2014-06-02T09:44:20-04:00
+date: 2017-05-11
 modified:
 excerpt: "Read about VT Bee Lab"
 tags: []
