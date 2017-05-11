@@ -14,3 +14,8 @@
   url: /projects/
   excerpt: "Learn about our work."
   image: research.JPG
+
+- title: Media
+  url: /media/
+  excerpt: "See our work featured."
+  image: research.JPG
