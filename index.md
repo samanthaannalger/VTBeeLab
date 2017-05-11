@@ -24,5 +24,11 @@ image:
   <p class="post-excerpt">We conducted a survey of bumble bees throughout Vermont and have detected both DWV (deformed wing virus) and BQCV (black queen cell virus) in several of Vermont's bumble bee species. Stay tuned for updates on this research.</p>
 </div><!-- /.tile -->
 
+<div class="tile">
+  <h2 class="post-title">Vermont Bee Disease Diagnostic Clinic....Coming Soon? </h2>
+  <p class="post-excerpt"> Due to staffing shortages, the USDA-ARS Bee Lab in Beltsville, MD has announced they will no longer be able to offer their free disease diagnostic service. We would like to begin a local service for Vermont beekeepers. Interested? We'd love to hear from you. Contact UVM researcher <a href="mailto:salger@uvm.edu?Subject=Bee Disease Testing" target="_top">Samantha Alger</a> for more information </p>
+  
+</div><!-- /.tile -->
+
 
 </div><!-- /.tiles -->
