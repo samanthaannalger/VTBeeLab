@@ -7,8 +7,8 @@ excerpt: "Meet the members of our lab."
 tags: []
 image:
   feature:
-  teaser: labSam.JPG
-  thumb:
+  teaser:
+  thumb: labSam.JPG
 share: false
 ads: false
 ---
