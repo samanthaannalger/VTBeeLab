@@ -10,7 +10,7 @@ image:
 <div class="tiles">
 
 <div class="tile">
-<h2 class="post-title"><a href="https://beeinformed.org/aphis/">National Honey Bee Survey</a></h2>
+<h2 class="post-title"><a href="https://beeinformed.org/aphis/">USDA-APHIS National Honey Bee Survey</a></h2>
   <p class="post-excerpt">Are you a Vermont beekeeper with at least 8 hives? Are you interested in participating in a free survey to test the pathogens and pesticides present in your apiary? The information gained from this survey is about a $400 value to the beekeeper and is kept confidential. Contact UVM researcher and VT survey manager <a href="mailto:salger@uvm.edu?Subject=NHBS" target="_top">Samantha Alger</a> for more information. </p>
 </div><!-- /.tile -->
 
