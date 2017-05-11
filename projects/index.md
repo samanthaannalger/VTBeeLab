@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "projects"
+title: "Projects"
 date: 2017-05-11
 modified:
 excerpt: "Learn about our work."
