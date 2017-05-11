@@ -17,6 +17,7 @@ image:
 <div class="tile">
   <h2 class="post-title"><a href="http://experiment.com/beekeeping">Homesick: Effects of Migratory Beekeeping on Honey Bee Disease</a></h2>
   <p class="post-excerpt">Crop pollination by migratory beekeeping operations presents a highly concentrated convergence of bees where diseases may be transmitted and spread as hives are transported throughout the US. We are conducting a crowdfunded experiment to test if hives returning from migratory crop pollination have more pathogens than their stationary counterparts. </p>
+  <p <iframe width="560" height="315" src="//www.youtube.com/watch?v=jaxyO2EfST4" frameborder="0"> </iframe> </p>
 </div><!-- /.tile -->
 
 <div class="tile">
