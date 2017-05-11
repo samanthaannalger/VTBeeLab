@@ -14,4 +14,3 @@ ads: false
 ---
 
 UNDER CONSTRUCTION
-<iframe width="560" height="315" src="//www.youtube.com/watch?v=jaxyO2EfST4" frameborder="0"> </iframe>
