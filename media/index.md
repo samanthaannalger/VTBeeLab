@@ -1,6 +1,16 @@
 ---
-title: "media"
-author: "Samantha A. Alger"
-date: "5/11/2017"
-output: html_document
+layout: article
+title: "Media"
+date: 2017-05-11
+modified:
+excerpt: "See our work featured."
+tags: []
+image:
+  feature:
+  teaser:
+  thumb:
+share: false
+ads: false
 ---
+
+UNDER CONSTRUCTION
