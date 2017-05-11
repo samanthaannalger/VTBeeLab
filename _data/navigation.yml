@@ -9,3 +9,8 @@
   url: /people/
   excerpt: "Meet the members of our lab."
   image: peoplePic.jpg
+  
+- title: Projects
+  url: /projects/
+  excerpt: "Learn about our work."
+  image: peoplePic.jpg
