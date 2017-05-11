@@ -16,6 +16,6 @@ ads: false
 UNDER CONSTRUCTION
 
 <figure>
-	<img src="bio-photo.jpg" alt="">
-	<figcaption>UNDER CONSTRUCTION.</figcaption>
+	<img src="{{ site.url }}/images/profileSam.png">
+	<figcaption>Samantha Alger, UVM.</figcaption>
 </figure>
